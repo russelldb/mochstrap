@@ -1,0 +1,43 @@
+{
+  "license": "Apache 2.0",
+  "recipes": {
+    "erlang_webdev": ""
+  },
+  "conflicting": {
+
+  },
+  "dependencies": {
+
+  },
+  "providing": {
+    "erlang": [
+
+    ]
+  },
+  "long_description": "",
+  "description": "Installs rebar templates and rebar script from git",
+  "replacing": {
+
+  },
+  "platforms": {
+    "debian": [
+
+    ],
+    "ubuntu": [
+
+    ]
+  },
+  "version": "0.1.0",
+  "maintainer": "Opscode, Inc.",
+  "recommendations": {
+
+  },
+  "name": "erlang_webdev",
+  "maintainer_email": "russell@ossme.net",
+  "attributes": {
+
+  },
+  "suggestions": {
+
+  }
+}
