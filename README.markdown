@@ -39,4 +39,4 @@ then package up the
 
 directory and drop on your target linux host (like say slicehost)
 
-see http://russelldb.github.com for a blog on all this.
+see <http://russelldb.github.com> for a blog on all this.
