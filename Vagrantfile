@@ -5,6 +5,7 @@ Vagrant::Config.run do |config|
   # Every Vagrant virtual environment requires a box to build off of.
 
   config.vm.customize do |vm|
+    vm.memory_size = 512
     vm.name = "moch_strap"
   end
 
