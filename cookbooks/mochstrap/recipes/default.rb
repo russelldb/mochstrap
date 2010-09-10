@@ -32,12 +32,6 @@ git "/home/vagrant/rebar_templates" do
   group "vagrant"
 end
 
-bash "start nginx" do
-  code <<-EOH
-    sudo /usr/local/nginx/sbin/nginx
-  EOH
-end
-
 bash "move_stuff_about" do
   cwd "/home/vagrant"
   code <<-EOH
