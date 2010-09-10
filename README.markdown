@@ -18,7 +18,7 @@ then clone this repo
 
      git clone git://github.com/russelldb/mochstrap.git
 
-then run
+then run (this will take **AGES** since it installs nginx, some dev libs, erlang (from source) and then the rebar_templates. Patience. Once it is done you don't need to do it again. You can even package the resulting box and use it as the base of future projects.)
 
 	vagrant up
 
